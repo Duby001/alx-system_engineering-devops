@@ -1,1 +1,1 @@
-List the long format with user and group ID including hidden files
+Create a script that creates a directory named my_first_directory in the /tmp/ directory
