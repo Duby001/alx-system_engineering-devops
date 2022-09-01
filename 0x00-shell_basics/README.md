@@ -1,1 +1,1 @@
-List the long format including hidden files
+List the long format with user and group ID including hidden files
